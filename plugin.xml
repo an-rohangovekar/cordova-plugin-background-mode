@@ -22,10 +22,11 @@
     <!-- dependencies -->
     <dependency id="org.apache.cordova.device" />
 
-    <!-- cordova -->
+    <!-- 
     <engines>
         <engine name="cordova" version=">=3.0.0" />
     </engines>
+     -->
 
     <!-- js -->
     <js-module src="www/background-mode.js" name="BackgroundMode">
